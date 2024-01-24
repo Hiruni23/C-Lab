@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Labsheet1\Labsheet1\bin\Debug\Labsheet1.exe.config
+C:\Users\Admin\source\repos\Labsheet1\Labsheet1\bin\Debug\Labsheet1.exe
+C:\Users\Admin\source\repos\Labsheet1\Labsheet1\bin\Debug\Labsheet1.pdb
+C:\Users\Admin\source\repos\Labsheet1\Labsheet1\obj\Debug\Labsheet1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Labsheet1\Labsheet1\obj\Debug\Labsheet1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Labsheet1\Labsheet1\obj\Debug\Labsheet1.exe
+C:\Users\Admin\source\repos\Labsheet1\Labsheet1\obj\Debug\Labsheet1.pdb
