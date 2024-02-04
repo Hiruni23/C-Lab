@@ -1,7 +1,0 @@
-C:\Users\Admin\source\repos\Labsheet1Q2\Labsheet1Q2\bin\Debug\Labsheet1Q2.exe.config
-C:\Users\Admin\source\repos\Labsheet1Q2\Labsheet1Q2\bin\Debug\Labsheet1Q2.exe
-C:\Users\Admin\source\repos\Labsheet1Q2\Labsheet1Q2\bin\Debug\Labsheet1Q2.pdb
-C:\Users\Admin\source\repos\Labsheet1Q2\Labsheet1Q2\obj\Debug\Labsheet1Q2.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\Labsheet1Q2\Labsheet1Q2\obj\Debug\Labsheet1Q2.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\Labsheet1Q2\Labsheet1Q2\obj\Debug\Labsheet1Q2.exe
-C:\Users\Admin\source\repos\Labsheet1Q2\Labsheet1Q2\obj\Debug\Labsheet1Q2.pdb
